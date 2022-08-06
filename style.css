@@ -58,3 +58,7 @@ body {
   background-color: #082858;
     transition: background-color 0.2s;
 }
+
+.link{
+    text-align: left;
+}
